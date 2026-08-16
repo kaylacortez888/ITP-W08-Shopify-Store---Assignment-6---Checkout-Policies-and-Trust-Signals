@@ -1,0 +1,100 @@
+---
+title: "ITP-W08-Shopify Store - Assignment 6 - Checkout, Policies, and Trust Signals"
+author: "Kayla Cortez"
+date: today
+format: 
+  html: 
+    toc: true
+    toc-depth: 4
+    number-sections: false
+    code-link: true
+    embed-resources: true
+editor: visual
+execute: 
+  freeze: auto
+---
+
+# Checkout review evidence
+
+## Include a screenshot showing that you reviewed checkout, payment, shipping, pickup, or related settings in Shopify. You do not need to activate real payments.
+
+Evidence showing reviewed settings:
+
+Policy: 
+
+![](Policy.png)
+
+Payment: 
+
+![](Payment.png)
+Checkout: 
+
+![](Checkout.png)
+Pick up or similar (delivery):
+
+![](Delivery.png)
+
+# Shipping or pickup information
+
+## Add or draft shipping, delivery, or pickup information for your store.
+
+Shipping and Pick up policy: 
+
+![](ShippingPolicy)
+
+# Return/refund policy
+
+## Add or draft a return/refund policy.
+
+Return/refund policy: 
+
+![](ReturnPolicy.png)
+
+---
+Returns
+
+We have a 7-day return policy, you will have 7 days from purchase to return the item to request a return.
+
+All returns must be made in person and require the original receipt or proof of purchase. To be eligible for a return, your item must be in the same condition that you received it, unused, with tags, and in its original packaging.
+
+We do not accept returns by mail or provide return shipping labels.
+
+Non-Returnable Items
+
+Certain items cannot be returned, including perishable goods such as food or produce.
+
+We also do not accept returns on sale items or gift cards. Please contact us if you have questions about whether a specific item is eligible for return.
+
+Exchanges
+
+If you would like to exchange an eligible item, please bring the item and your original receipt to the store within 7 days of purchase. Exchanges are subject to product availability.
+
+Refunds
+
+Once your in-person return has been inspected and approved, your refund will be issued to the original payment method. Processing times may vary depending on your bank or credit card provider.
+
+# Privacy policy or customer data statement
+
+## Add or draft a privacy policy or brief customer data statement.
+
+![](Privacy.png)
+
+Information collected through the contact form such as name, email, phone number is to be used to provide and enhance the customer experience. Therefore, reasonable efforts would be taken to keep your information private and only to be used to improve store operation such as marketing.
+
+# Contact information
+
+## Add or draft a contact page or contact section.
+
+![](ContactUsPage.png)
+
+# Trust signals reflection
+
+## Write one paragraph explaining how your policies and store information could make customers feel more confident.
+
+Policies are important to incorporate because not everyone will be satisfied or decide they longer need it. There are many reasons to return, which is why having a window to return and exchange items provides transparency between the store and client. For a small business it would be 7 days to return and exchange items. In order for items to qualify return the policy is clear about tampering, damage items, it cannot be used or open. The policy helps provide customer an expectation and understanding if their purchase qualifies for a return or exchange before coming back to the store. Along with privacy policy, we want to ensure that the customer is comfortable in reaching out to the store. Therefore, it states that they will do necessary efforts to protect their information and how the collected information is used. So they feel confident in sharing their contact.
+
+# CPP Farm Store application reflection
+
+## Write one paragraph explaining which trust signals would be especially important for CPP Farm Store.
+
+This can be applied for CPP Farm Store in case that the order goes wrong, needs item substitution after recieving the gift basket, or want to make a return. Along with the current system where they collect emails or phone numbers to contact them when the order is ready. A privacy policy would be needed stating how they use which is only for communication of orders. Both return/exchange policy are both beneficial for CPP Farm Store to help build trust and understanding with the customers.
